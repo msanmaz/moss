@@ -17,7 +17,7 @@ function HeroHome() {
             {/* Content */}
             <div className="md:col-span-6 lg:col-span-6 mb-8 md:mb-0 text-center md:text-left">
               <h1 className="h1 lg:text-6xl mb-4 font-red-hat-display font-extrabold dark:text-white">Hi there,I'm Mert<br/> Front-End<span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-red-500"> Developer </span>Student</h1>
-              <p className="text-xl text-gray-600 dark:text-white" data-aos="fade-down" data-aos-delay="150">Our landing page works fine, so you only have to set it up once, and get beautiful results forever.</p>
+              <p className="text-xl text-gray-600 dark:text-white" data-aos="fade-down" data-aos-delay="150">I'm a 25-year-old student at Griffith College currently studying Computer Science</p>
 
               <ul className="max-w-sm sm:max-w-md mx-auto md:max-w-none text-gray-600 dark:text-gray-400 mt-8 -mb-2">
                 <li className="flex items-center mb-2">
